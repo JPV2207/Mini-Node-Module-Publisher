@@ -94,7 +94,7 @@ Hey! This is my mini module. Cheers!
 
 ## ✨ Author
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by Jay Prakash Valecha(https://github.com/JPV2207)
 
 ---
 
